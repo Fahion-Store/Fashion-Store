@@ -1,0 +1,194 @@
+﻿Analyzing fashion_store_app...                                  
+
+   info - Unnecessary 'const' keyword - lib\models\product.dart:40:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:40:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:41:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:41:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:42:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:42:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:43:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:43:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:56:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:56:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:57:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:57:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:58:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:58:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:71:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:71:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:72:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:72:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:73:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:73:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:86:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:86:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:87:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:87:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:88:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:88:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:101:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:101:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:102:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:102:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:103:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:103:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:116:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:116:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:117:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:117:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:118:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:118:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:133:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:133:52 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:134:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:134:53 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:135:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:135:53 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:148:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:148:54 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:149:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:149:49 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:162:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:162:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:163:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:163:53 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:176:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:176:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:177:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:177:49 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:190:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:190:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:191:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:191:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:206:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:206:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:207:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:207:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:208:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:208:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:221:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:221:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:222:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:222:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:223:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:223:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:236:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:236:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:237:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:237:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:238:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:238:55 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:251:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:251:55 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:252:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:252:55 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:253:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:253:55 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:266:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:266:54 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:267:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:267:54 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:268:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:268:54 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:269:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:269:54 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:284:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:284:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:285:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:285:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:286:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:286:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:287:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:287:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:300:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:300:55 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:301:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:301:55 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:314:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:314:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:315:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:315:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:316:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:316:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:329:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:329:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:330:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:330:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:331:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:331:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:344:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:344:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:345:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:345:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:346:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:346:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:361:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:361:52 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:362:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:362:52 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:363:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:363:52 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:376:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:376:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:377:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:377:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:378:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:378:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:379:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:379:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:392:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:392:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:393:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:393:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:394:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:394:50 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:407:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:407:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:408:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:408:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:409:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:409:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:422:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:422:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:423:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:423:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:424:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:424:51 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:425:9 - unnecessary_const
+   info - Unnecessary 'const' keyword - lib\models\product.dart:425:51 - unnecessary_const
+   info - Use 'const' with the constructor to improve performance - lib\screens\auth\register_screen.dart:77:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\auth\register_screen.dart:95:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\auth\register_screen.dart:116:17 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\auth\register_screen.dart:148:17 - prefer_const_constructors
+   info - Statements in an if should be enclosed in a block - lib\screens\auth\register_screen.dart:174:23 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\checkout\checkout_screen.dart:184:69 - curly_braces_in_flow_control_structures
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:87:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:89:30 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:201:30 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\screens\home\home_screen.dart:202:35 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:203:27 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:204:38 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:282:45 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:286:14 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:288:16 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\home\home_screen.dart:316:29 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:349:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:366:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:388:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:391:55 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:522:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:562:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:565:53 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home\home_screen.dart:679:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\products\product_detail_screen.dart:89:65 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\products\product_detail_screen.dart:101:67 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\products\product_detail_screen.dart:298:56 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\screens\profile\profile_screen.dart:91:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\profile\profile_screen.dart:93:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\profile\profile_screen.dart:95:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\profile\profile_screen.dart:104:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\profile\profile_screen.dart:129:13 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\screens\profile\profile_screen.dart:152:13 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile\profile_screen.dart:374:52 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\profile\profile_screen.dart:560:9 - deprecated_member_use
+
