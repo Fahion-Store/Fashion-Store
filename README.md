@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fashion_store_app
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Fashion-Store
+Flutter mobile Application
+>>>>>>> 8da6caaef36bc4116d2b66d0f9bd78ba0ca33e73
